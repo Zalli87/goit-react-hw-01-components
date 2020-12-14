@@ -22,7 +22,7 @@ const TransactionHistory = ({items}) => {
 }
 
 TransactionHistory.propTypes = {
-  items: PropTypes.arrayOf(PropTypes.shape.isRequired),
+  items: PropTypes.arrayOf(PropTypes.object.isRequired),
 };
 
 export default TransactionHistory;
