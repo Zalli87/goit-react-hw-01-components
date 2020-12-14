@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Zalli87/goit-react-hw-01-components/static/css/main.a9ce38ce.chunk.css",
+    "main.js": "/Zalli87/goit-react-hw-01-components/static/js/main.9222761c.chunk.js",
+    "main.js.map": "/Zalli87/goit-react-hw-01-components/static/js/main.9222761c.chunk.js.map",
+    "runtime-main.js": "/Zalli87/goit-react-hw-01-components/static/js/runtime-main.132ac140.js",
+    "runtime-main.js.map": "/Zalli87/goit-react-hw-01-components/static/js/runtime-main.132ac140.js.map",
+    "static/js/2.94a7912b.chunk.js": "/Zalli87/goit-react-hw-01-components/static/js/2.94a7912b.chunk.js",
+    "static/js/2.94a7912b.chunk.js.map": "/Zalli87/goit-react-hw-01-components/static/js/2.94a7912b.chunk.js.map",
+    "index.html": "/Zalli87/goit-react-hw-01-components/index.html",
+    "static/css/main.a9ce38ce.chunk.css.map": "/Zalli87/goit-react-hw-01-components/static/css/main.a9ce38ce.chunk.css.map",
+    "static/js/2.94a7912b.chunk.js.LICENSE.txt": "/Zalli87/goit-react-hw-01-components/static/js/2.94a7912b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.132ac140.js",
+    "static/js/2.94a7912b.chunk.js",
+    "static/css/main.a9ce38ce.chunk.css",
+    "static/js/main.9222761c.chunk.js"
+  ]
+}
