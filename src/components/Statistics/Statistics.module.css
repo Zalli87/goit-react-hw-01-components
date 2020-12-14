@@ -1,0 +1,10 @@
+.title {
+  font-size: 60px;
+  text-align: center;
+}
+
+.stat {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}

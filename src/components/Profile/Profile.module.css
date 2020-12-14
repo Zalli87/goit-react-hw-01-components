@@ -1,0 +1,21 @@
+.profile {
+  display: block;
+  max-width: 300px;
+}
+
+.description {
+  font-size: 30x;
+}
+
+.avatar {
+  display: block;
+  max-width: 300px;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
